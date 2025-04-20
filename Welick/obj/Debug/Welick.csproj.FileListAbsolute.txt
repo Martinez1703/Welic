@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\bin\Debug\Welick.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\bin\Debug\Welick.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\bin\Debug\Welick.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.Form1.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.exe
+C:\Users\USER\OneDrive\Рабочий стол\Test\Welick\obj\Debug\Welick.pdb
